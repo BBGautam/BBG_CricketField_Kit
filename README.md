@@ -1,4 +1,4 @@
-# 🏏 Cricket Field View for iOS, iOS Cricket Field UI Framework,  Cricket Ground Layout for Swift Package
+# 🏏 Cricket Field View for iOS, Cricket Ground Layout for Swift Package
 
 BBG_CricketField_Kit
 
