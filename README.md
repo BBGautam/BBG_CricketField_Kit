@@ -73,6 +73,7 @@ NSLayoutConstraint.activate([
 
 
 Step 4 — Handle Position Selection
+
 groundView.onPositionSelect = { position in
     print("Selected Field Position: \(position.type.displayName())")
 }
