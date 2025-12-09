@@ -16,7 +16,16 @@ It allows users to tap on field positions, visualize selection, and integrate cu
 
 ---
 
+
+🛠 Requirements
+Requirement	Version
+iOS	13.0+
+Xcode	15+
+Swift	5.7+
+
+---
+
 ## 📷 Preview
 
 >   
-<img width="1179" height="2556" alt="IMG_0102" src="https://github.com/user-attachments/assets/45fdef74-b538-4f24-a2ed-f3c91a67b642" />
+<img width="393" height="852" alt="IMG_0102" src="https://github.com/user-attachments/assets/45fdef74-b538-4f24-a2ed-f3c91a67b642" />
